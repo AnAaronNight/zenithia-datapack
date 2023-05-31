@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"result": {
+		"item": "minecraft:iron_ore",
+		"count": 1
+	},
+	"pattern": [
+		"XSX",
+		"S S",
+		"XSX"
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:iron_ingot"
+		},
+		"S": {
+			"item": "minecraft:stone"
+		}
+	}
+}

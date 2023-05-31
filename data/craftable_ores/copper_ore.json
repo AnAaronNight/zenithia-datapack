@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"result": {
+		"item": "minecraft:copper_ore",
+		"count": 1
+	},
+	"pattern": [
+		"XSB",
+		"S S",
+		"BSX"
+	],
+	"key": {
+		"X": {
+			"item": "minecraft:copper"
+		},
+		"B": {
+			"item": "minecraft:copper_block"
+		},
+		"S": {
+			"item": "minecraft:stone"
+		}
+	}
+}
