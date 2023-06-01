@@ -1,0 +1,23 @@
+{
+	"type": "crafting_shaped",
+	"result": {
+		"item": "minecraft:elytra",
+		"count": 1
+	},
+	"pattern": [
+		"MIM",
+		"MSM",
+		"M M"
+	],
+	"key": {
+		"M": {
+			"item": "minecraft:phantom_membrane"
+		},
+		"I": {
+			"item": "minecraft:end_rod"
+		},
+		"S": {
+			"item": "minecraft:nether_star"
+		}
+	}
+}
