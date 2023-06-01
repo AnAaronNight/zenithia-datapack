@@ -1,0 +1,17 @@
+{
+	"type": "crafting_shaped",
+	"result": {
+		"item": "minecraft:cobweb",
+		"cobweb": 1
+	},
+	"pattern": [
+		"S S",
+		" S ",
+		"S S"
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:string"
+		}
+	}
+}
