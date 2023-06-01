@@ -1,0 +1,29 @@
+{
+	"type": "crafting_shaped",
+	"result": {
+		"item": "minecraft:enchanted_golden_apple",
+		"count": 1
+	},
+	"pattern": [
+		"GTG",
+		"LAL",
+		"GXG"
+	],
+	"key": {
+		"G": {
+			"item": "minecraft:gold_block"
+		},
+		"T": {
+			"item": "minecraft:totem_of_undying"
+		},
+		"L": {
+			"item": "minecraft:lapis_lazuli"
+		},
+		"A": {
+			"item": "minecraft:apple"
+		},
+		"X": {
+			"item": "minecraft:experience_bottle"
+		}
+	}
+}
